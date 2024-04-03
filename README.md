@@ -3,4 +3,4 @@
 
 <h7 align="left">🌱 That's always learning more about Cyber Security & Incident Response
 </h6>
-<h7 align="left"> Connect with me on mastodon: @Tarek@infosec.exchange
+<h7 align="left"> Connect with me on mastodon: @Tarek@infosec.exchange / Tarek@mozilla.social
