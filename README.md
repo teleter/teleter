@@ -4,3 +4,5 @@
 <h7 align="left">🌱 That's always learning more about Cyber Security & Incident Response
 </h6>
 <h7 align="left"> Connect with me on mastodon: Tarek@infosec.exchange
+
+![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=teleter&show_icons=true&theme=transparent)
