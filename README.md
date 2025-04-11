@@ -12,4 +12,5 @@
   </a>
 
 ## 📊 GitHub Stats
+ ![Profile Views](https://komarev.com/ghpvc/?username=teleter)
 ![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=teleter&show_icons=true&theme=transparent)
