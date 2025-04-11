@@ -3,7 +3,6 @@
 ## A Passionate Senior Security Engineer - Incident Response Engineer 🛡️
 
 - I'm always trying to learn more about Cyber Security & Incident Response 🌱
-- Connect with me on Mastodon: Tarek@infosec.exchange
 
 ## 🔗 Connect with Me
 <p>
