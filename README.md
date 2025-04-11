@@ -7,7 +7,7 @@
 
 ## 🔗 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/tarekeleter" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/tarekeleter" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
 
