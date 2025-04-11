@@ -9,7 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/tarekeleter" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a> &nbsp;
+  </a>
 
 ## 📊 GitHub Stats
 ![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=teleter&show_icons=true&theme=transparent)
