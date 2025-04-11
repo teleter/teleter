@@ -6,7 +6,6 @@
 - Connect with me on Mastodon: Tarek@infosec.exchange
 
 ## 🔗 Connect with Me
-<a href="https://www.linkedin.com/in/tarekeleter" style="display: inline-flex; align-items: center; text-decoration: none;">
 ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 ## 📊 GitHub Stats
