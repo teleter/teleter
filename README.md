@@ -6,7 +6,15 @@
 - Connect with me on Mastodon: Tarek@infosec.exchange
 
 ## 🔗 Connect with Me
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({})
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
+
 
 ## 📊 GitHub Stats
 ![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=teleter&show_icons=true&theme=transparent)
