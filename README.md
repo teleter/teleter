@@ -1,4 +1,4 @@
-# Hi, I'm Tarek El-Eter 👋
+# Hi, I'm Tarek El-Eter 👋  ![Profile Views](https://komarev.com/ghpvc/?username=teleter)
 
 ## A Passionate Senior Security Engineer - Incident Response Engineer 🛡️
 
@@ -11,5 +11,5 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
 
-## 📊 GitHub Stats ![Profile Views](https://komarev.com/ghpvc/?username=teleter)
+## 📊 GitHub Stats
 ![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=teleter&show_icons=true&theme=transparent)
