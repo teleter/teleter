@@ -7,7 +7,7 @@
 
 ## 🔗 Connect with Me
 <a href="https://www.linkedin.com/in/tarekeleter" style="display: inline-flex; align-items: center; text-decoration: none;">
-[![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({https://www.linkedin.com/in/tarekeleter})
+![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
 
 ## 📊 GitHub Stats
 ![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=teleter&show_icons=true&theme=transparent)
