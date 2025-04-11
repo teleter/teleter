@@ -7,8 +7,8 @@
 
 ## 🔗 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  <a href="https://www.linkedin.com/tarekeleter" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 
 ## 📊 GitHub Stats
