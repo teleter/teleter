@@ -1,6 +1,6 @@
 # Hi, I'm Tarek El-Eter 👋                                                          
 
-## A Passionate Senior Security Engineer - Incident Response Engineer 🛡️
+## A Passionate Senior Security Engineer - Incident Response 🛡️
 
 - I'm always trying to learn more about Cyber Security & Incident Response 🌱
 
